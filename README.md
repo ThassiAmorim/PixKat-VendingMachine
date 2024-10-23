@@ -1,4 +1,4 @@
-# PixKat - Máquina automática de Vendas
+# PixKat - Máquina Automática de Vendas
 Projeto de Vending Machine realizado por Isaac Fiuza Vieira, João Kaszuba, Thassiana Camilia Amorim Muller e Vinicius Henrique Kieling.  
 A documentação completa está no PDF "PixKat Documentação"
 
